@@ -30,6 +30,7 @@
     <!-- Dashboard -->
     <string name="greeting_morning">Selamat pagi</string>
     <string name="greeting_afternoon">Selamat siang</string>
+    <string name="greeting_sore">Selamat sore</string>
     <string name="greeting_evening">Selamat malam</string>
     <string name="search_hint">Laper mau makan apa hari ini?</string>
     <string name="section_category">Kategori</string>
