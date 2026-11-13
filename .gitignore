@@ -8,3 +8,7 @@
 .externalNativeBuild
 .cxx
 app/build/
+# Signing release — jangan di-commit
+keystore.properties
+*.keystore
+

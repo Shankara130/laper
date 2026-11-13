@@ -67,7 +67,12 @@ export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"
 ./gradlew assembleDebug
 # Hasil: app/build/outputs/apk/debug/app-debug.apk
 
-# 4. Install ke emulator/perangkat
+# 4. Build APK release (signed) — perlu keystore.properties (lihat contoh: keystore.properties.example)
+cp keystore.properties.example keystore.properties   # sesuaikan bila perlu
+./gradlew assembleRelease
+# Hasil: app/build/outputs/apk/release/app-release.apk
+
+# 5. Install ke emulator/perangkat
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 
