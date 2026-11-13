@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laper!</string>
+
+    <!-- Auth -->
+    <string name="login_title">Masuk dulu, yuk!</string>
+    <string name="login_subtitle">Pesanan favoritmu menunggu di keranjang.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="btn_login">Masuk</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="btn_register">Daftar</string>
+    <string name="demo_account_hint">Akun demo: demo@student.ac.id / bp3123</string>
+    <string name="register_title">Buat akun baru</string>
+    <string name="register_subtitle">Semudah pesan es teh di kantin.</string>
+    <string name="hint_full_name">Nama Lengkap</string>
+    <string name="hint_phone">Nomor HP</string>
+    <string name="hint_confirm_password">Ulangi Kata Sandi</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="err_email_required">Email wajib diisi</string>
+    <string name="err_email_invalid">Format email tidak valid</string>
+    <string name="err_password_required">Kata sandi wajib diisi</string>
+    <string name="err_password_short">Kata sandi minimal 6 karakter</string>
+    <string name="err_name_required">Nama wajib diisi</string>
+    <string name="err_phone_required">Nomor HP wajib diisi</string>
+    <string name="err_password_mismatch">Kata sandi tidak sama</string>
+    <string name="login_failed">Email atau kata sandi salah</string>
+    <string name="register_success">Pendaftaran berhasil! Silakan masuk.</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_morning">Selamat pagi</string>
+    <string name="greeting_afternoon">Selamat siang</string>
+    <string name="greeting_evening">Selamat malam</string>
+    <string name="search_hint">Laper mau makan apa hari ini?</string>
+    <string name="section_category">Kategori</string>
+    <string name="section_popular">Menu Terlaris</string>
+    <string name="section_warung">Warung Sekitar Kampus</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="sold_count">%1$s terjual</string>
+
+    <!-- Menu -->
+    <string name="menu_title">Semua Menu</string>
+    <string name="search_menu_hint">Cari menu…</string>
+    <string name="category_all">Semua</string>
+    <string name="empty_menu">Menu tidak ditemukan. Coba kata kunci lain!</string>
+    <string name="add_to_cart">Tambah ke Keranjang</string>
+    <string name="note_hint">Catatan untuk warung (opsional)</string>
+    <string name="qty">Jumlah</string>
+    <string name="spicy">Pedas</string>
+    <string name="added_to_cart">Masuk keranjang!</string>
+    <string name="share_menu">Bagikan Menu</string>
+    <string name="open_location">Lihat Lokasi Warung</string>
+    <string name="sold_by">Dijual oleh</string>
+
+    <!-- Restaurant -->
+    <string name="restaurant_title">Warung Sekitar Kampus</string>
+    <string name="open_hours">%1$s WIB</string>
+    <string name="eta_minutes">± %1$d menit</string>
+    <string name="call_warung">Hubungi Warung</string>
+    <string name="menu_at_warung">Menu di %1$s</string>
+
+    <!-- Cart & Checkout -->
+    <string name="cart_title">Keranjang</string>
+    <string name="cart_empty">Keranjangmu masih kosong.\nYuk isi dengan menu favorit!</string>
+    <string name="browse_menu">Jelajahi Menu</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery_fee">Ongkos Kirim</string>
+    <string name="discount">Diskon</string>
+    <string name="total">Total</string>
+    <string name="checkout">Lanjut ke Pembayaran</string>
+    <string name="promo_hint">Kode promo (mis. LAPERBARU)</string>
+    <string name="apply">Pakai</string>
+    <string name="promo_applied">Promo %1$s berhasil dipakai!</string>
+    <string name="promo_invalid">Kode tidak valid atau minimum belanja belum terpenuhi</string>
+    <string name="remove">Hapus</string>
+    <string name="checkout_title">Pembayaran</string>
+    <string name="delivery_data">Data Pengiriman</string>
+    <string name="hint_receiver">Nama Penerima</string>
+    <string name="hint_address">Alamat Lengkap (gedung/fakultas, no. HP)</string>
+    <string name="payment_method">Metode Pembayaran</string>
+    <string name="pay_transfer">Transfer Bank</string>
+    <string name="pay_qris">QRIS</string>
+    <string name="pay_dana">DANA</string>
+    <string name="pay_cod">Bayar di Tempat (COD)</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="btn_order">Pesan Sekarang</string>
+    <string name="err_receiver_required">Nama penerima wajib diisi</string>
+    <string name="err_address_required">Alamat wajib diisi</string>
+
+    <!-- Orders -->
+    <string name="order_success_title">Pesanan Diterima!</string>
+    <string name="order_success_subtitle">Warung lagi menyiapkan pesananmu.</string>
+    <string name="order_code">Kode Pesanan</string>
+    <string name="track_order">Lacak Pesanan</string>
+    <string name="share_order">Bagikan Pesanan</string>
+    <string name="back_to_home">Kembali ke Beranda</string>
+    <string name="tracking_title">Lacak Pesanan</string>
+    <string name="status_received">Diterima Warung</string>
+    <string name="status_cooking">Dimasak</string>
+    <string name="status_delivering">Sedang Diantar</string>
+    <string name="status_done">Selesai</string>
+    <string name="courier">Kurirmu</string>
+    <string name="call_courier">Telepon Kurir</string>
+    <string name="order_history_title">Riwayat Pesanan</string>
+    <string name="history_empty">Belum ada pesanan.\nPesanan pertamamu menunggu!</string>
+    <string name="reorder">Pesan Lagi</string>
+    <string name="items_count">%1$d item</string>
+
+    <!-- Profile & About -->
+    <string name="profile_title">Profil</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="logout">Keluar</string>
+    <string name="about_title">Tentang Laper!</string>
+    <string name="about_desc">Laper! adalah aplikasi pemesanan makanan warung sekitar kampus. Dibuat untuk Tugas Akhir mata kuliah Bahasa Pemrograman 3 (Android — Kotlin).</string>
+    <string name="email_dev">Email Developer</string>
+    <string name="rate_us">Beri Ulasan</string>
+    <string name="photo_credits">Foto menu: Wikimedia Commons (CC BY-SA)</string>
+    <string name="version_label">Versi %1$s</string>
+
+    <!-- Misc -->
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="retry">Coba Lagi</string>
+</resources>

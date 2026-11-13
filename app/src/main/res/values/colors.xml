@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Laper! warm Material 3 palette (light) -->
+    <color name="primary">#C2410C</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#FFDBCC</color>
+    <color name="on_primary_container">#3A0B00</color>
+
+    <color name="secondary">#7C5334</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#FFDCC5</color>
+    <color name="on_secondary_container">#2C1608</color>
+
+    <color name="tertiary">#3D6B35</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#BEF0B0</color>
+    <color name="on_tertiary_container">#002203</color>
+
+    <color name="error">#BA1A1A</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#FFDAD6</color>
+    <color name="on_error_container">#410002</color>
+
+    <color name="background">#FFF8F5</color>
+    <color name="on_background">#221A16</color>
+    <color name="surface">#FFF8F5</color>
+    <color name="on_surface">#221A16</color>
+    <color name="surface_variant">#F4DED4</color>
+    <color name="on_surface_variant">#52443D</color>
+
+    <color name="surface_dim">#D8C7BF</color>
+    <color name="surface_bright">#FFF8F5</color>
+    <color name="surface_container_lowest">#FFFFFF</color>
+    <color name="surface_container_low">#FBF1EC</color>
+    <color name="surface_container">#F6EAE4</color>
+    <color name="surface_container_high">#F1E1DA</color>
+    <color name="surface_container_highest">#EBDAD2</color>
+
+    <color name="outline">#85736C</color>
+    <color name="outline_variant">#D7C2B9</color>
+    <color name="inverse_surface">#382E2A</color>
+    <color name="inverse_on_surface">#FFEDE6</color>
+    <color name="inverse_primary">#FFB693</color>
+    <color name="scrim">#000000</color>
+
+    <!-- Accent / semantic -->
+    <color name="rating_amber">#F59E0B</color>
+    <color name="success_green">#2F7D32</color>
+    <color name="badge_red">#D93025</color>
+
+    <!-- Splash & launcher -->
+    <color name="splash_background">#FFF8F5</color>
+    <color name="launcher_background">#FFF8F5</color>
+</resources>

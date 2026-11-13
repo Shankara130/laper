@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Steam -->
+    <path
+        android:pathData="M46,41 C44,37 48,35 46,30"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M62,41 C60,37 64,35 62,30"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Bowl body -->
+    <path
+        android:fillColor="#C2410C"
+        android:pathData="M30,53 A24,21 0 0 0 78,53 Z" />
+
+    <!-- Rim -->
+    <path
+        android:fillColor="#9A3412"
+        android:pathData="M27,49 h54 a2.5,2.5 0 0 1 2.5,2.5 v0 a2.5,2.5 0 0 1 -2.5,2.5 h-54 a2.5,2.5 0 0 1 -2.5,-2.5 v0 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+
+    <!-- Foot -->
+    <path
+        android:fillColor="#9A3412"
+        android:pathData="M46,73 h16 a2,2 0 0 1 2,2 v0 a2,2 0 0 1 -2,2 h-16 a2,2 0 0 1 -2,-2 v0 a2,2 0 0 1 2,-2 z" />
+</vector>
