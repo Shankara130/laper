@@ -178,8 +178,7 @@
                 android:clipToPadding="false"
                 android:nestedScrollingEnabled="false"
                 android:orientation="horizontal"
-                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-                app:orientation="horizontal" />
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
 
             <!-- Warung -->
             <TextView
